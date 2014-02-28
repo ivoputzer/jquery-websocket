@@ -1,3 +1,5 @@
+/* MIT License ~ Copyright © 2014 Ivo von Putzer Reibegg */
+
 (function($) {
 
   $.websocket = function(url, o) {
